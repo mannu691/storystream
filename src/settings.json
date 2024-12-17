@@ -1,0 +1,34 @@
+{
+  "colors": [
+    "#FFFFFF",
+    "#000000",
+    "#EB5757",
+    "#F2994A",
+    "#F2C94C",
+    "#27AE60",
+    "#2F80ED",
+    "#9B51E0"
+  ],
+  "theme": {
+    "primary": "#3a99f2",
+    "secondary": "#07495F",
+    "tertiary": "#0E92BE",
+    "weak": "#B2B2B2",
+    "background": "#56CCF2",
+    "shadow": "rgba(0,0,0,0.3)",
+    "orangered": "#FF4500"
+  },
+  "pinnedPost": {
+    "title": "Welcome to StoryStream - Choose Your Adventure!"
+  },
+  "comments": {
+    "newStory": "💡 What Happens Next?\nReply to this comment with your idea for the next part of the story.\n🎉 The top-voted reply will continue the tale!\nLet's see where your imagination takes us."
+  },
+  "minimumOriginLength": 15,
+  "authorRewardForSubmit": 10,
+  "userRewardForTopPart": 10,
+  "userRewardForPartSelected": 8,
+  "authorRewardForNewPart": 1,
+  "userRewardForCrosspost": 5,
+  "userRewardForReport": 2
+}
